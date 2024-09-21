@@ -1,0 +1,19 @@
+.card{
+    border: none;
+}
+
+.card-title{
+    font-size: 50px;
+}
+
+#herocol1{
+    padding: 100px 0px 100px 0px;
+    align-items: center;
+    margin: 40px;
+}
+
+#herocol2{
+    padding: 30px 0px 30px 0px;
+    align-items: center;
+    margin: 40px;
+}

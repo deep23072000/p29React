@@ -11,10 +11,10 @@ const Mainnavbar = () => {
         <Container>
           <Navbar.Brand href="#home">Navbar</Navbar.Brand>
           <Nav className="me-auto">
-            <Link id="home" to="/"> Home </Link>
-            <Link id="home" to="/about"> About </Link>
-            <Link id="home" to="/service"> Service </Link>
-            <Link id="home" to="/contact"> Contact </Link>
+            <Link to="/"> Home </Link>
+            <Link to="/about"> About </Link>
+            <Link to="/service"> Service </Link>
+            <Link to="/contact"> Contact </Link>
           </Nav>
         </Container>
       </Navbar>
